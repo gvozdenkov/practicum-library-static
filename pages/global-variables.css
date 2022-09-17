@@ -6,4 +6,7 @@
   --accent-color: #2f80ed;
   --link-hover: #1f69c9;
   --link-hover-footer: #c1c1c1;
+
+  /* animations */
+  --short-trans: 0.2s;
 }

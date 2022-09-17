@@ -6,18 +6,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./pages/index.css" />
     <link rel="shortcut icon" href="favicon.ico?v2" type="image/x-icon" />
-    <title>Document</title>
+    <title>Practicum Library</title>
   </head>
   <body class="page">
-    <div class="page__content">
-      <header class="header page__section"></header>
-      <main class="content">
-        <section class="staff-pics page__section"></section>
-        <section class="events page__section"></section>
-        <section class="membership page__section"></section>
-        <section class="about page__section"></section>
-      </main>
-      <footer class="footer page__section"></footer>
-    </div>
+    <header class="header">
+      <img
+        src="./images/logo.png"
+        alt="Practicum Library."
+        class="logo logo_place_header"
+      />
+      <nav>
+        <ul class="nav">
+          <li>
+            <a href="#staff-pics" class="nav__link link-hover">Staff picks</a>
+          </li>
+          <li><a href="#events" class="nav__link link-hover">Events</a></li>
+          <li>
+            <a href="#membership" class="nav__link link-hover"
+              >Become a member</a
+            >
+          </li>
+          <li><a href="#about" class="nav__link link-hover">About</a></li>
+          <li><a href="#footer" class="nav__link link-hover">Contacts</a></li>
+        </ul>
+      </nav>
+      <div class="header__content">
+        <h1 class="header__title">Welcome to the Practicum Library</h1>
+        <p class="header__description">
+          We're pleased to open our library doors to everyone! Come and expand
+          your development knowledge, or just use this lovely spot to work or
+          study. This is a cool place for cool students!
+        </p>
+      </div>
+      <div class="header__footer">
+        <a href="#" class="header__link link-hover">About th library &darr;</a>
+        <p class="header__address">200 Success Avenue, The Town of Practicum</p>
+      </div>
+      <img
+        src="./images/inside_the_library.png"
+        alt="Cartoon library isometry."
+        class="header__image"
+      />
+    </header>
+    <main class="content">
+      <section class="staff-pics page__section"></section>
+      <section class="events page__section"></section>
+      <section class="membership page__section"></section>
+      <section class="about page__section"></section>
+    </main>
+    <footer class="footer page__section"></footer>
   </body>
 </html>
