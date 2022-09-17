@@ -1,0 +1,9 @@
+:root {
+  --main-bg: white;
+  --contrast-bg: #2f2f2f;
+  --footer-bg: #1f1f1f;
+  --main-font: black;
+  --accent-color: #2f80ed;
+  --link-hover: #1f69c9;
+  --link-hover-footer: #c1c1c1;
+}
