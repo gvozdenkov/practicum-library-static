@@ -6,4 +6,5 @@
   position: absolute;
   top: -121px;
   left: -91px;
+  z-index: -1;
 }
