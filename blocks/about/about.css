@@ -1,0 +1,9 @@
+.about {
+  display: flex;
+  align-items: start;
+  gap: 120px;
+  background-color: var(--footer-bg);
+  color: var(--main-bg);
+  position: relative;
+  overflow: hidden;
+}

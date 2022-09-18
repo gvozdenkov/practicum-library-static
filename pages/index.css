@@ -72,6 +72,12 @@
 @import url(../blocks/step/__title/step__title.css);
 @import url(../blocks/step/__description/step__description.css);
 
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__content/about__content.css);
+@import url(../blocks/about/__paragraph/about__paragraph.css);
+@import url(../blocks/about/__circle/about__circle.css);
+
 * {
   /* border: 1px solid lightgray; */
 }
