@@ -1,6 +1,6 @@
 .page__section {
   width: 100%;
   max-width: 1100px;
-  padding: 80px calc((100% - 1200px) / 2);
+  padding: 80px 100px;
   margin: 0 auto;
 }
