@@ -1,0 +1,5 @@
+.footer__columns {
+  display: flex;
+  align-items: flex-start;
+  /* gap: 100px; */
+}

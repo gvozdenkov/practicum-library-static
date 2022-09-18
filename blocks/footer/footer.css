@@ -1,0 +1,9 @@
+.footer {
+  background-color: var(--footer-bg);
+  color: var(--main-bg);
+  min-height: 224px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
