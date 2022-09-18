@@ -1,0 +1,9 @@
+.card {
+  max-width: 300px;
+  min-height: 400px;
+  padding: 40px 30px 25px;
+  background-color: var(--main-bg);
+  display: flex;
+  flex-flow: column;
+  gap: 30px;
+}

@@ -22,6 +22,19 @@
 @import url(../blocks/nav/nav.css);
 @import url(../blocks/nav/__link/nav__link.css);
 
+@import url(../blocks/staff/staff.css);
+@import url(../blocks/staff/__cards/staff__cards.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__author/card__author.css);
+
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+
 * {
   /* border: 1px solid lightgray; */
 }

@@ -1,0 +1,7 @@
+.card__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.4;
+  margin: 0;
+  flex: 1;
+}
