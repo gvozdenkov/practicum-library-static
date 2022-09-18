@@ -1,3 +1,4 @@
 .events__section-subtitle {
-    margin-bottom: 30px;
+  margin-bottom: 30px !important;
+  text-align: left !important;
 }
