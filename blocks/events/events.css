@@ -1,4 +1,5 @@
 .events {
   position: relative;
   min-height: 700px;
+  overflow: hidden;
 }

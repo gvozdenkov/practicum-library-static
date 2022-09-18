@@ -1,0 +1,6 @@
+.step {
+  display: flex;
+  flex-flow: column;
+  gap: 20px;
+  flex-basis: 220px;
+}
